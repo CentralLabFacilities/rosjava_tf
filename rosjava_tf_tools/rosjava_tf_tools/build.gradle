@@ -48,7 +48,7 @@ dependencies {
 
 repositories {
   maven {
-    url "http://maven.nuiton.org/nexus/content/groups/releases/"
+    url "https://artifacts.alfresco.com/nexus/content/repositories/public/"
   }
 }
 
